@@ -1,3 +1,4 @@
-a = 1
-b = 3
-c = a+b
+c = add(1, 2)
+
+def add(a, b):
+	return a+b
